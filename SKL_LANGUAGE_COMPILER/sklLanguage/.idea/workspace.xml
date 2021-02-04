@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+	<component name="ChangeListManager">
+		<list default="true" id="b30766a2-e7dc-41e4-ac74-4ddad582e42a"
+			name="Default Changelist" comment="">
+			<change beforePath="$PROJECT_DIR$/src/TokenMaker.java"
+				beforeDir="false" afterPath="$PROJECT_DIR$/src/TokenMaker.java"
+				afterDir="false" />
+			<change beforePath="$PROJECT_DIR$/src/Visitor1.java"
+				beforeDir="false" afterPath="$PROJECT_DIR$/src/Visitor1.java"
+				afterDir="false" />
+			<change beforePath="$PROJECT_DIR$/src/g.g4" beforeDir="false"
+				afterPath="$PROJECT_DIR$/src/g.g4" afterDir="false" />
+			<change beforePath="$PROJECT_DIR$/src/g.interp"
+				beforeDir="false" afterPath="$PROJECT_DIR$/src/g.interp"
+				afterDir="false" />
+			<change beforePath="$PROJECT_DIR$/src/gParser.java"
+				beforeDir="false" afterPath="$PROJECT_DIR$/src/gParser.java"
+				afterDir="false" />
+		</list>
+		<ignored path="$PROJECT_DIR$/out/" />
+		<option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+		<option name="SHOW_DIALOG" value="false" />
+		<option name="HIGHLIGHT_CONFLICTS" value="true" />
+		<option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+		<option name="LAST_RESOLUTION" value="IGNORE" />
+	</component>
+	<component name="FUSProjectUsageTrigger">
+		<session id="1872702524">
+			<usages-collector id="statistics.lifecycle.project">
+				<counts>
+					<entry key="project.closed" value="1" />
+					<entry key="project.open.time.0" value="1" />
+					<entry key="project.open.time.1" value="1" />
+					<entry key="project.opened" value="2" />
+				</counts>
+			</usages-collector>
+			<usages-collector
+				id="statistics.file.extensions.open">
+				<counts>
+					<entry key="class" value="1" />
+					<entry key="form" value="3" />
+					<entry key="g4" value="3" />
+					<entry key="html" value="2" />
+					<entry key="java" value="33" />
+				</counts>
+			</usages-collector>
+			<usages-collector id="statistics.file.types.open">
+				<counts>
+					<entry key="ANTLR v4 grammar file" value="3" />
+					<entry key="CLASS" value="1" />
+					<entry key="GUI_DESIGNER_FORM" value="3" />
+					<entry key="HTML" value="2" />
+					<entry key="JAVA" value="33" />
+				</counts>
+			</usages-collector>
+			<usages-collector
+				id="statistics.file.extensions.edit">
+				<counts>
+					<entry key="g4" value="383" />
+					<entry key="java" value="35823" />
+					<entry key="txt" value="515" />
+				</counts>
+			</usages-collector>
+			<usages-collector id="statistics.file.types.edit">
+				<counts>
+					<entry key="ANTLR v4 grammar file" value="383" />
+					<entry key="JAVA" value="35823" />
+					<entry key="PLAIN_TEXT" value="515" />
+				</counts>
+			</usages-collector>
+		</session>
+	</component>
+	<component name="FileEditorManager">
+		<leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+			<file pinned="false" current-in-tab="false">
+				<entry file="file://$PROJECT_DIR$/src/Visitor2.java">
+					<provider selected="true" editor-type-id="text-editor">
+						<state relative-caret-position="61">
+							<caret line="2568" column="28" lean-forward="true"
+								selection-start-line="2568" selection-start-column="28"
+								selection-end-line="2568" selection-end-column="28" />
+							<folding>
+								<element signature="e#2012#2020#0" expanded="true" />
+								<element signature="e#2793#2794#0" expanded="true" />
+								<element signature="e#2834#2835#0" expanded="true" />
+								<element signature="e#2928#2929#0" expanded="true" />
+								<element signature="e#2969#2970#0" expanded="true" />
+								<element signature="e#3059#3060#0" expanded="true" />
+								<element signature="e#3100#3101#0" expanded="true" />
+								<element signature="e#3188#3189#0" expanded="true" />
+								<element signature="e#3229#3230#0" expanded="true" />
+								<element signature="e#3309#3310#0" expanded="true" />
+								<element signature="e#3350#3351#0" expanded="true" />
+								<element signature="e#4319#4320#0" expanded="true" />
+								<element signature="e#4360#4361#0" expanded="true" />
+								<element signature="e#4456#4457#0" expanded="true" />
+								<element signature="e#4497#4498#0" expanded="true" />
+								<element signature="e#21898#21899#0" expanded="true" />
+								<element signature="e#21939#21940#0" expanded="true" />
+								<element signature="e#24426#24427#0" expanded="true" />
+								<element signature="e#24467#24468#0" expanded="true" />
+								<element signature="e#24858#24859#0" expanded="true" />
+								<element signature="e#24899#24900#0" expanded="true" />
+								<element signature="e#28848#28849#0" expanded="true" />
+								<element signature="e#28889#28890#0" expanded="true" />
+								<element signature="e#28989#28990#0" expanded="true" />
+								<element signature="e#29030#29031#0" expanded="true" />
+								<element signature="e#29547#29548#0" expanded="true" />
+								<element signature="e#29588#29589#0" expanded="true" />
+								<element signature="e#29684#29685#0" expanded="true" />
+								<element signature="e#29725#29726#0" expanded="true" />
+								<element signature="e#29819#29820#0" expanded="true" />
+								<element signature="e#29860#29861#0" expanded="true" />
+								<element signature="e#29960#29961#0" expanded="true" />
+								<element signature="e#30001#30002#0" expanded="true" />
+								<element signature="e#30717#30718#0" expanded="true" />
+								<element signature="e#30758#30759#0" expanded="true" />
+								<element signature="e#30846#30847#0" expanded="true" />
+								<element signature="e#30887#30888#0" expanded="true" />
+								<element signature="e#30963#30964#0" expanded="true" />
+								<element signature="e#31004#31005#0" expanded="true" />
+								<element signature="e#31094#31095#0" expanded="true" />
+								<element signature="e#31135#31136#0" expanded="true" />
+								<element signature="e#31221#31222#0" expanded="true" />
+								<element signature="e#31262#31263#0" expanded="true" />
+								<element signature="e#31358#31359#0" expanded="true" />
+								<element signature="e#31399#31400#0" expanded="true" />
+								<element signature="e#31493#31494#0" expanded="true" />
+								<element signature="e#31534#31535#0" expanded="true" />
+								<element signature="e#31620#31621#0" expanded="true" />
+								<element signature="e#31661#31662#0" expanded="true" />
+								<element signature="e#76234#76235#0" expanded="true" />
+								<element signature="e#76275#76276#0" expanded="true" />
+								<element signature="e#78851#78852#0" expanded="true" />
+								<element signature="e#78892#78893#0" expanded="true" />
+								<element signature="e#79471#79472#0" expanded="true" />
+								<element signature="e#79512#79513#0" expanded="true" />
+								<element signature="e#79598#79599#0" expanded="true" />
+								<element signature="e#79639#79640#0" expanded="true" />
+								<element signature="e#79723#79724#0" expanded="true" />
+								<element signature="e#79764#79765#0" expanded="true" />
+								<element signature="e#79844#79845#0" expanded="true" />
+								<element signature="e#79885#79886#0" expanded="true" />
+								<element signature="e#79971#79972#0" expanded="true" />
+								<element signature="e#80012#80013#0" expanded="true" />
+								<element signature="e#80388#80389#0" expanded="true" />
+								<element signature="e#80429#80430#0" expanded="true" />
+								<element signature="e#80507#80508#0" expanded="true" />
+								<element signature="e#80548#80549#0" expanded="true" />
+								<element signature="e#83953#83954#0" expanded="true" />
+								<element signature="e#83994#83995#0" expanded="true" />
+								<element signature="e#84092#84093#0" expanded="true" />
+								<element signature="e#84133#84134#0" expanded="true" />
+								<element signature="e#84414#84415#0" expanded="true" />
+								<element signature="e#84455#84456#0" expanded="true" />
+								<element signature="e#84889#84890#0" expanded="true" />
+								<element signature="e#84930#84931#0" expanded="true" />
+								<element signature="e#129966#129967#0" expanded="true" />
+								<element signature="e#130007#130008#0" expanded="true" />
+								<element signature="e#132731#132732#0" expanded="true" />
+								<element signature="e#132772#132773#0" expanded="true" />
+								<element signature="e#119115#119123#0" expanded="true" />
+								<element signature="e#133317#133318#0" expanded="true" />
+								<element signature="e#133358#133359#0" expanded="true" />
+								<element signature="e#133444#133445#0" expanded="true" />
+								<element signature="e#133485#133486#0" expanded="true" />
+								<element signature="e#138771#138772#0" expanded="true" />
+								<element signature="e#138812#138813#0" expanded="true" />
+								<element signature="e#145642#145643#0" expanded="true" />
+								<element signature="e#145683#145684#0" expanded="true" />
+								<element signature="e#145763#145764#0" expanded="true" />
+								<element signature="e#145804#145805#0" expanded="true" />
+								<element signature="e#146542#146543#0" expanded="true" />
+								<element signature="e#146583#146584#0" expanded="true" />
+								<element signature="e#146667#146668#0" expanded="true" />
+								<element signature="e#146708#146709#0" expanded="true" />
+								<element signature="e#146802#146803#0" expanded="true" />
+								<element signature="e#146843#146844#0" expanded="true" />
+								<element signature="e#146949#146950#0" expanded="true" />
+								<element signature="e#146990#146991#0" expanded="true" />
+								<element signature="e#147398#147399#0" expanded="true" />
+								<element signature="e#147439#147440#0" expanded="true" />
+								<element signature="e#147525#147526#0" expanded="true" />
+								<element signature="e#147566#147567#0" expanded="true" />
+								<element signature="e#147644#147645#0" expanded="true" />
+								<element signature="e#147685#147686#0" expanded="true" />
+								<element signature="e#147763#147764#0" expanded="true" />
+								<element signature="e#147804#147805#0" expanded="true" />
+								<element signature="e#147892#147893#0" expanded="true" />
+								<element signature="e#147933#147934#0" expanded="true" />
+								<element signature="e#148017#148018#0" expanded="true" />
+								<element signature="e#148058#148059#0" expanded="true" />
+								<element signature="e#148138#148139#0" expanded="true" />
+								<element signature="e#148179#148180#0" expanded="true" />
+								<element signature="e#149089#149090#0" expanded="true" />
+								<element signature="e#149144#149145#0" expanded="true" />
+								<element signature="e#149187#149188#0" expanded="true" />
+								<element signature="e#149244#149245#0" expanded="true" />
+								<element signature="e#129550#129557#0" expanded="true" />
+							</folding>
+						</state>
+					</provider>
+				</entry>
+			</file>
+			<file pinned="false" current-in-tab="true">
+				<entry file="file://$PROJECT_DIR$/src/Visitor1.java">
+					<provider selected="true" editor-type-id="text-editor">
+						<state relative-caret-position="231">
+							<caret line="244" column="13" lean-forward="true"
+								selection-start-line="244" selection-start-column="13"
+								selection-end-line="249" selection-end-column="15" />
+							<folding>
+								<element signature="e#2086#2094#0" expanded="true" />
+								<element signature="e#3455#3456#0" expanded="true" />
+								<element signature="e#3496#3497#0" expanded="true" />
+								<element signature="e#4547#4548#0" expanded="true" />
+								<element signature="e#4588#4589#0" expanded="true" />
+								<element signature="e#4684#4685#0" expanded="true" />
+								<element signature="e#4725#4726#0" expanded="true" />
+							</folding>
+						</state>
+					</provider>
+				</entry>
+			</file>
+			<file pinned="false" current-in-tab="false">
+				<entry
+					file="file://$PROJECT_DIR$/src/com/udojava/evalex/Expression.java">
+					<provider selected="true" editor-type-id="text-editor">
+						<state>
+							<caret line="203" column="47" lean-forward="true"
+								selection-start-line="203" selection-start-column="47"
+								selection-end-line="203" selection-end-column="47" />
+						</state>
+					</provider>
+				</entry>
+			</file>
+			<file pinned="false" current-in-tab="false">
+				<entry file="file://$PROJECT_DIR$/src/Scope.java">
+					<provider selected="true" editor-type-id="text-editor">
+						<state relative-caret-position="285">
+							<caret line="45" column="5" selection-start-line="45"
+								selection-start-column="5" selection-end-line="45"
+								selection-end-column="5" />
+							<folding>
+								<element signature="e#1124#1125#0" expanded="true" />
+								<element signature="e#1161#1162#0" expanded="true" />
+								<element signature="e#1232#1233#0" expanded="true" />
+								<element signature="e#1278#1279#0" expanded="true" />
+							</folding>
+						</state>
+					</provider>
+				</entry>
+			</file>
+			<file pinned="false" current-in-tab="false">
+				<entry file="file://$PROJECT_DIR$/src/Symbol.java">
+					<provider selected="true" editor-type-id="text-editor">
+						<state>
+							<caret column="13" selection-start-column="13"
+								selection-end-column="13" />
+						</state>
+					</provider>
+				</entry>
+			</file>
+			<file pinned="false" current-in-tab="false">
+				<entry file="file://$PROJECT_DIR$/src/TokenMaker.java">
+					<provider selected="true" editor-type-id="text-editor">
+						<state relative-caret-position="278">
+							<caret line="26" column="53" lean-forward="true"
+								selection-start-line="26" selection-start-column="53"
+								selection-end-line="26" selection-end-column="53" />
+							<folding>
+								<element signature="imports" expanded="true" />
+							</folding>
+						</state>
+					</provider>
+				</entry>
+			</file>
+			<file pinned="false" current-in-tab="false">
+				<entry file="file://$PROJECT_DIR$/src/g.g4">
+					<provider selected="true" editor-type-id="text-editor">
+						<state relative-caret-position="192">
+							<caret line="102" column="19" lean-forward="true"
+								selection-start-line="102" selection-start-column="19"
+								selection-end-line="102" selection-end-column="19" />
+						</state>
+					</provider>
+				</entry>
+			</file>
+			<file pinned="false" current-in-tab="false">
+				<entry file="file://$PROJECT_DIR$/src/mainIDE.java">
+					<provider selected="true" editor-type-id="text-editor">
+						<state relative-caret-position="3218">
+							<caret line="254" column="48" selection-start-line="254"
+								selection-start-column="40" selection-end-line="254"
+								selection-end-column="48" />
+							<folding>
+								<element signature="imports" expanded="true" />
+								<element signature="e#4862#4869#0" expanded="true" />
+								<element signature="e#6485#6492#0" expanded="true" />
+								<element signature="e#5615#5616#0" expanded="true" />
+								<element signature="e#5675#5676#0" expanded="true" />
+								<element signature="e#5941#5942#0" expanded="true" />
+								<element signature="e#5994#5995#0" expanded="true" />
+								<element signature="e#6044#6045#0" expanded="true" />
+								<element signature="e#6098#6099#0" expanded="true" />
+							</folding>
+						</state>
+					</provider>
+				</entry>
+			</file>
+			<file pinned="false" current-in-tab="false">
+				<entry file="file://$PROJECT_DIR$/src/gParser.java">
+					<provider selected="true" editor-type-id="text-editor">
+						<state relative-caret-position="1965">
+							<caret line="2864" selection-start-line="2864"
+								selection-end-line="2864" />
+						</state>
+					</provider>
+				</entry>
+			</file>
+			<file pinned="false" current-in-tab="false">
+				<entry file="file://$PROJECT_DIR$/src/gVisitor.java">
+					<provider selected="true" editor-type-id="text-editor">
+						<state relative-caret-position="210">
+							<caret line="530" column="57" lean-forward="true"
+								selection-start-line="530" selection-end-line="531" />
+						</state>
+					</provider>
+				</entry>
+			</file>
+		</leaf>
+	</component>
+	<component name="FileTemplateManagerImpl">
+		<option name="RECENT_TEMPLATES">
+			<list>
+				<option value="Class" />
+			</list>
+		</option>
+	</component>
+	<component name="FindInProjectRecents">
+		<findStrings>
+			<find>index initial</find>
+			<find>i am printin</find>
+			<find>printSymbo</find>
+			<find>localvar</find>
+			<find>visitmethodbod</find>
+			<find>visitLocalVar</find>
+			<find>Error: Duplicate local variable</find>
+			<find>Error: Duplicate local variabl</find>
+			<find>checkVariableDuplicateinScope</find>
+			<find>temphashmap</find>
+			<find>visitLoca</find>
+			<find>visitSta</find>
+			<find>localVar</find>
+			<find>visitMethodBody</find>
+			<find>Semantic Error: Duplicate local variable</find>
+			<find>visitStatement_2</find>
+			<find>processInput</find>
+			<find>duplicate</find>
+			<find>parameters</find>
+			<find>processE</find>
+			<find>express</find>
+			<find>correctFuc</find>
+			<find>expression_17</find>
+			<find>keywords</find>
+			<find>proces</find>
+			<find>appendSemantic</find>
+			<find>Null p</find>
+			<find>wtf</find>
+			<find>visitExpressiOn_10</find>
+			<find>variableDeclar</find>
+		</findStrings>
+		<replaceStrings>
+			<replace>appendSemanticError</replace>
+		</replaceStrings>
+	</component>
+	<component name="Git.Settings">
+		<option name="UPDATE_TYPE" value="MERGE" />
+		<option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+	</component>
+	<component name="IdeDocumentHistory">
+		<option name="CHANGED_PATHS">
+			<list>
+				<option value="$PROJECT_DIR$/src/TextEditorDemo.java" />
+				<option value="$PROJECT_DIR$/src/mainIDE.form" />
+				<option value="$PROJECT_DIR$/src/Main.java" />
+				<option value="$PROJECT_DIR$/src/Scope.java" />
+				<option value="$PROJECT_DIR$/src/mainIDE.java" />
+				<option value="$PROJECT_DIR$/src/Visitor2.java" />
+				<option value="$PROJECT_DIR$/src/TokenMaker.java" />
+				<option value="$PROJECT_DIR$/src/g.g4" />
+				<option value="$PROJECT_DIR$/src/Visitor1.java" />
+			</list>
+		</option>
+	</component>
+	<component name="JsBuildToolGruntFileManager"
+		detection-done="true" sorting="DEFINITION_ORDER" />
+	<component name="JsBuildToolPackageJson"
+		detection-done="true" sorting="DEFINITION_ORDER" />
+	<component name="JsGulpfileManager">
+		<detection-done>true</detection-done>
+		<sorting>DEFINITION_ORDER</sorting>
+	</component>
+	<component name="ProjectFrameBounds">
+		<option name="y" value="23" />
+		<option name="width" value="1440" />
+		<option name="height" value="798" />
+	</component>
+	<component name="ProjectLevelVcsManager">
+		<ConfirmationsSetting value="2" id="Add" />
+	</component>
+	<component name="ProjectView">
+		<navigator proportions="" version="1">
+			<foldersAlwaysOnTop value="true" />
+		</navigator>
+		<panes>
+			<pane id="Course" />
+			<pane id="ProjectPane">
+				<subPane>
+					<expand>
+						<path>
+							<item name="BigHero5Language"
+								type="b2602c69:ProjectViewProjectNode" />
+							<item name="BigHero5Language"
+								type="462c0819:PsiDirectoryNode" />
+						</path>
+						<path>
+							<item name="BigHero5Language"
+								type="b2602c69:ProjectViewProjectNode" />
+							<item name="BigHero5Language"
+								type="462c0819:PsiDirectoryNode" />
+							<item name="src" type="462c0819:PsiDirectoryNode" />
+						</path>
+					</expand>
+					<select />
+				</subPane>
+			</pane>
+			<pane id="PackagesPane" />
+			<pane id="Scope" />
+			<pane id="AndroidView" />
+		</panes>
+	</component>
+	<component name="PropertiesComponent">
+		<property name="$PROJECT_DIR$/src/g.g4::/auto-gen"
+			value="true" />
+		<property name="$PROJECT_DIR$/src/g.g4::/gen-listener"
+			value="true" />
+		<property name="$PROJECT_DIR$/src/g.g4::/gen-visitor"
+			value="true" />
+		<property name="$PROJECT_DIR$/src/g.g4::/output-dir"
+			value="$PROJECT_DIR$/src" />
+		<property name="SearchEverywhereHistoryKey"
+			value="&#9;FILE&#9;file:///Users/adrianmendoza/Desktop/Git/BigHero5Language/src/g.g4" />
+		<property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW"
+			value="true" />
+		<property name="WebServerToolWindowFactoryState"
+			value="false" />
+		<property name="aspect.path.notification.shown" value="true" />
+		<property
+			name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp"
+			value="1575953655282" />
+		<property name="project.structure.last.edited"
+			value="Modules" />
+		<property name="project.structure.proportion" value="0.15" />
+		<property name="project.structure.side.proportion"
+			value="0.2" />
+		<property name="run.code.analysis.last.selected.profile"
+			value="pProject Default" />
+		<property name="settings.editor.selected.configurable"
+			value="Errors" />
+	</component>
+	<component name="RecentsManager">
+		<key name="CopyFile.RECENT_KEYS">
+			<recent name="$PROJECT_DIR$" />
+			<recent name="$PROJECT_DIR$/src" />
+			<recent name="$PROJECT_DIR$/src/org" />
+		</key>
+	</component>
+	<component name="RestoreUpdateTree" date="Moments ago"
+		ActionInfo="_Update">
+		<UpdatedFiles>
+			<FILE-GROUP>
+				<option name="myUpdateName" value="Updated from server" />
+				<option name="myStatusName" value="Changed on server" />
+				<option name="mySupportsDeletion" value="false" />
+				<option name="myCanBeAbsent" value="false" />
+				<option name="myId" value="CHANGED_ON_SERVER" />
+				<FILE-GROUP>
+					<option name="myUpdateName" value="Updated" />
+					<option name="myStatusName" value="Changed" />
+					<option name="mySupportsDeletion" value="false" />
+					<option name="myCanBeAbsent" value="false" />
+					<option name="myId" value="UPDATED" />
+					<PATH vcs="Git" revision="">$PROJECT_DIR$/src/Visitor2.java</PATH>
+					<PATH vcs="Git" revision="">$PROJECT_DIR$/src/g.g4</PATH>
+					<PATH vcs="Git" revision="">$PROJECT_DIR$/src/g.interp</PATH>
+					<PATH vcs="Git" revision="">$PROJECT_DIR$/src/gParser.java</PATH>
+				</FILE-GROUP>
+				<FILE-GROUP>
+					<option name="myUpdateName" value="Created" />
+					<option name="myStatusName" value="Created" />
+					<option name="mySupportsDeletion" value="false" />
+					<option name="myCanBeAbsent" value="false" />
+					<option name="myId" value="CREATED" />
+				</FILE-GROUP>
+				<FILE-GROUP>
+					<option name="myUpdateName" value="Deleted" />
+					<option name="myStatusName" value="Deleted" />
+					<option name="mySupportsDeletion" value="false" />
+					<option name="myCanBeAbsent" value="true" />
+					<option name="myId" value="REMOVED_FROM_REPOSITORY" />
+				</FILE-GROUP>
+				<FILE-GROUP>
+					<option name="myUpdateName" value="Restored" />
+					<option name="myStatusName" value="Will be restored" />
+					<option name="mySupportsDeletion" value="false" />
+					<option name="myCanBeAbsent" value="false" />
+					<option name="myId" value="RESTORED" />
+				</FILE-GROUP>
+			</FILE-GROUP>
+			<FILE-GROUP>
+				<option name="myUpdateName" value="Modified" />
+				<option name="myStatusName" value="Modified" />
+				<option name="mySupportsDeletion" value="false" />
+				<option name="myCanBeAbsent" value="false" />
+				<option name="myId" value="MODIFIED" />
+			</FILE-GROUP>
+			<FILE-GROUP>
+				<option name="myUpdateName" value="Skipped" />
+				<option name="myStatusName" value="Skipped" />
+				<option name="mySupportsDeletion" value="false" />
+				<option name="myCanBeAbsent" value="false" />
+				<option name="myId" value="SKIPPED" />
+			</FILE-GROUP>
+			<FILE-GROUP>
+				<option name="myUpdateName" value="Merged with conflicts" />
+				<option name="myStatusName"
+					value="Will be merged with conflicts" />
+				<option name="mySupportsDeletion" value="false" />
+				<option name="myCanBeAbsent" value="false" />
+				<option name="myId" value="MERGED_WITH_CONFLICTS" />
+			</FILE-GROUP>
+			<FILE-GROUP>
+				<option name="myUpdateName"
+					value="Merged with tree conflicts" />
+				<option name="myStatusName"
+					value="Merged with tree conflicts" />
+				<option name="mySupportsDeletion" value="false" />
+				<option name="myCanBeAbsent" value="false" />
+				<option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+			</FILE-GROUP>
+			<FILE-GROUP>
+				<option name="myUpdateName"
+					value="Merged with property conflicts" />
+				<option name="myStatusName"
+					value="Will be merged with property conflicts" />
+				<option name="mySupportsDeletion" value="false" />
+				<option name="myCanBeAbsent" value="false" />
+				<option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+			</FILE-GROUP>
+			<FILE-GROUP>
+				<option name="myUpdateName" value="Merged" />
+				<option name="myStatusName" value="Will be merged" />
+				<option name="mySupportsDeletion" value="false" />
+				<option name="myCanBeAbsent" value="false" />
+				<option name="myId" value="MERGED" />
+			</FILE-GROUP>
+			<FILE-GROUP>
+				<option name="myUpdateName" value="Not in repository" />
+				<option name="myStatusName" value="Not in repository" />
+				<option name="mySupportsDeletion" value="true" />
+				<option name="myCanBeAbsent" value="false" />
+				<option name="myId" value="UNKNOWN" />
+			</FILE-GROUP>
+			<FILE-GROUP>
+				<option name="myUpdateName" value="Locally added" />
+				<option name="myStatusName" value="Locally added" />
+				<option name="mySupportsDeletion" value="false" />
+				<option name="myCanBeAbsent" value="false" />
+				<option name="myId" value="LOCALLY_ADDED" />
+			</FILE-GROUP>
+			<FILE-GROUP>
+				<option name="myUpdateName" value="Locally removed" />
+				<option name="myStatusName" value="Locally removed" />
+				<option name="mySupportsDeletion" value="false" />
+				<option name="myCanBeAbsent" value="false" />
+				<option name="myId" value="LOCALLY_REMOVED" />
+			</FILE-GROUP>
+			<FILE-GROUP>
+				<option name="myUpdateName" value="Switched" />
+				<option name="myStatusName" value="Switched" />
+				<option name="mySupportsDeletion" value="false" />
+				<option name="myCanBeAbsent" value="false" />
+				<option name="myId" value="SWITCHED" />
+			</FILE-GROUP>
+		</UpdatedFiles>
+	</component>
+	<component name="RunDashboard">
+		<option name="ruleStates">
+			<list>
+				<RuleState>
+					<option name="name"
+						value="ConfigurationTypeDashboardGroupingRule" />
+				</RuleState>
+				<RuleState>
+					<option name="name" value="StatusDashboardGroupingRule" />
+				</RuleState>
+			</list>
+		</option>
+	</component>
+	<component name="RunManager" selected="Application.mainIDE">
+		<configuration name="Main (1)" type="Application"
+			factoryName="Application" temporary="true" nameIsGenerated="true">
+			<option name="MAIN_CLASS_NAME" value="Main" />
+			<module name="BigHero5Language" />
+			<method v="2">
+				<option name="Make" enabled="true" />
+			</method>
+		</configuration>
+		<configuration name="Main" type="Application"
+			factoryName="Application" temporary="true">
+			<option name="MAIN_CLASS_NAME" value="com.company.Main" />
+			<module name="BigHero5Language" />
+			<option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+			<RunnerSettings RunnerId="Run" />
+			<ConfigurationWrapper RunnerId="Run" />
+			<method v="2">
+				<option name="Make" enabled="true" />
+			</method>
+		</configuration>
+		<configuration name="TextEditorDemo" type="Application"
+			factoryName="Application" temporary="true" nameIsGenerated="true">
+			<option name="MAIN_CLASS_NAME" value="TextEditorDemo" />
+			<module name="BigHero5Language" />
+			<method v="2">
+				<option name="Make" enabled="true" />
+			</method>
+		</configuration>
+		<configuration name="mainIDE" type="Application"
+			factoryName="Application" temporary="true" nameIsGenerated="true">
+			<option name="MAIN_CLASS_NAME" value="mainIDE" />
+			<module name="BigHero5Language" />
+			<method v="2">
+				<option name="Make" enabled="true" />
+			</method>
+		</configuration>
+		<list>
+			<item itemvalue="Application.Main" />
+			<item itemvalue="Application.Main (1)" />
+			<item itemvalue="Application.TextEditorDemo" />
+			<item itemvalue="Application.mainIDE" />
+		</list>
+		<recent_temporary>
+			<list>
+				<item itemvalue="Application.mainIDE" />
+				<item itemvalue="Application.Main (1)" />
+				<item itemvalue="Application.TextEditorDemo" />
+				<item itemvalue="Application.Main" />
+			</list>
+		</recent_temporary>
+	</component>
+	<component name="SvnConfiguration">
+		<configuration />
+	</component>
+	<component name="TaskManager">
+		<task active="true" id="Default" summary="Default task">
+			<changelist id="b30766a2-e7dc-41e4-ac74-4ddad582e42a"
+				name="Default Changelist" comment="" />
+			<created>1575469435348</created>
+			<option name="number" value="Default" />
+			<option name="presentableId" value="Default" />
+			<updated>1575469435348</updated>
+			<workItem from="1575469436945" duration="35505000" />
+			<workItem from="1575557338216" duration="146758000" />
+		</task>
+		<task id="LOCAL-00001" summary="First Push CLEAN">
+			<created>1575469948432</created>
+			<option name="number" value="00001" />
+			<option name="presentableId" value="LOCAL-00001" />
+			<option name="project" value="LOCAL" />
+			<updated>1575469948432</updated>
+		</task>
+		<task id="LOCAL-00002" summary="CLEAN PLS">
+			<created>1575470084990</created>
+			<option name="number" value="00002" />
+			<option name="presentableId" value="LOCAL-00002" />
+			<option name="project" value="LOCAL" />
+			<updated>1575470084990</updated>
+		</task>
+		<task id="LOCAL-00003" summary="LATEST WITH GUI WORKING">
+			<created>1575482077768</created>
+			<option name="number" value="00003" />
+			<option name="presentableId" value="LOCAL-00003" />
+			<option name="project" value="LOCAL" />
+			<updated>1575482077768</updated>
+		</task>
+		<task id="LOCAL-00004" summary="WAITING TO MERGE">
+			<created>1575537967022</created>
+			<option name="number" value="00004" />
+			<option name="presentableId" value="LOCAL-00004" />
+			<option name="project" value="LOCAL" />
+			<updated>1575537967022</updated>
+		</task>
+		<task id="LOCAL-00005" summary="AKO MUNA MAG MERGE OH">
+			<created>1575539649325</created>
+			<option name="number" value="00005" />
+			<option name="presentableId" value="LOCAL-00005" />
+			<option name="project" value="LOCAL" />
+			<updated>1575539649325</updated>
+		</task>
+		<task id="LOCAL-00006" summary="AKO MUNA MAG MERGE OH">
+			<created>1575539807996</created>
+			<option name="number" value="00006" />
+			<option name="presentableId" value="LOCAL-00006" />
+			<option name="project" value="LOCAL" />
+			<updated>1575539807996</updated>
+		</task>
+		<task id="LOCAL-00007" summary="AKO MUNA MAG MERGE OH">
+			<created>1575541125150</created>
+			<option name="number" value="00007" />
+			<option name="presentableId" value="LOCAL-00007" />
+			<option name="project" value="LOCAL" />
+			<updated>1575541125150</updated>
+		</task>
+		<task id="LOCAL-00008"
+			summary="FINAL CLEAN COPY AS OF THURSDAY 6:46PM">
+			<created>1575542804373</created>
+			<option name="number" value="00008" />
+			<option name="presentableId" value="LOCAL-00008" />
+			<option name="project" value="LOCAL" />
+			<updated>1575542804373</updated>
+		</task>
+		<task id="LOCAL-00009" summary="ANG DUMI MO HAHAHAH">
+			<created>1575554944882</created>
+			<option name="number" value="00009" />
+			<option name="presentableId" value="LOCAL-00009" />
+			<option name="project" value="LOCAL" />
+			<updated>1575554944882</updated>
+		</task>
+		<task id="LOCAL-00010" summary="FIX AT 9:35">
+			<created>1575725792469</created>
+			<option name="number" value="00010" />
+			<option name="presentableId" value="LOCAL-00010" />
+			<option name="project" value="LOCAL" />
+			<updated>1575725792469</updated>
+		</task>
+		<task id="LOCAL-00011" summary="MERGED AT 9:58">
+			<created>1575727198985</created>
+			<option name="number" value="00011" />
+			<option name="presentableId" value="LOCAL-00011" />
+			<option name="project" value="LOCAL" />
+			<updated>1575727198985</updated>
+		</task>
+		<task id="LOCAL-00012" summary="MERGED AT 9:58">
+			<created>1575728567301</created>
+			<option name="number" value="00012" />
+			<option name="presentableId" value="LOCAL-00012" />
+			<option name="project" value="LOCAL" />
+			<updated>1575728567301</updated>
+		</task>
+		<task id="LOCAL-00013" summary="FIXED RECURSION FRIKIN WORKS">
+			<created>1575804135164</created>
+			<option name="number" value="00013" />
+			<option name="presentableId" value="LOCAL-00013" />
+			<option name="project" value="LOCAL" />
+			<updated>1575804135164</updated>
+		</task>
+		<task id="LOCAL-00014"
+			summary="THIS IS SO CLOSE TO FINISH LETS GOOOOOO">
+			<created>1575825382613</created>
+			<option name="number" value="00014" />
+			<option name="presentableId" value="LOCAL-00014" />
+			<option name="project" value="LOCAL" />
+			<updated>1575825382613</updated>
+		</task>
+		<task id="LOCAL-00015" summary="Added visitor1">
+			<created>1575870892660</created>
+			<option name="number" value="00015" />
+			<option name="presentableId" value="LOCAL-00015" />
+			<option name="project" value="LOCAL" />
+			<updated>1575870892660</updated>
+		</task>
+		<task id="LOCAL-00016" summary="Merged at 2:01">
+			<created>1575871318529</created>
+			<option name="number" value="00016" />
+			<option name="presentableId" value="LOCAL-00016" />
+			<option name="project" value="LOCAL" />
+			<updated>1575871318529</updated>
+		</task>
+		<task id="LOCAL-00017" summary="HOPEFULLY 2ND TO THE LAST">
+			<created>1575900910654</created>
+			<option name="number" value="00017" />
+			<option name="presentableId" value="LOCAL-00017" />
+			<option name="project" value="LOCAL" />
+			<updated>1575900910654</updated>
+		</task>
+		<task id="LOCAL-00018" summary="HOPEFULLY 2ND TO THE LAST">
+			<created>1575917239879</created>
+			<option name="number" value="00018" />
+			<option name="presentableId" value="LOCAL-00018" />
+			<option name="project" value="LOCAL" />
+			<updated>1575917239879</updated>
+		</task>
+		<task id="LOCAL-00019" summary="FUCKING DONE!!!">
+			<created>1575931246190</created>
+			<option name="number" value="00019" />
+			<option name="presentableId" value="LOCAL-00019" />
+			<option name="project" value="LOCAL" />
+			<updated>1575931246190</updated>
+		</task>
+		<task id="LOCAL-00020"
+			summary="WITH SEMANTIC ERRORS BUT PLS COUNTER CHECK">
+			<created>1575935154237</created>
+			<option name="number" value="00020" />
+			<option name="presentableId" value="LOCAL-00020" />
+			<option name="project" value="LOCAL" />
+			<updated>1575935154238</updated>
+		</task>
+		<task id="LOCAL-00021" summary="ALMOOOOOSTTT">
+			<created>1575951713756</created>
+			<option name="number" value="00021" />
+			<option name="presentableId" value="LOCAL-00021" />
+			<option name="project" value="LOCAL" />
+			<updated>1575951713756</updated>
+		</task>
+		<option name="localTasksCounter" value="22" />
+		<servers />
+	</component>
+	<component name="TimeTrackingManager">
+		<option name="totallyTimeSpent" value="182263000" />
+	</component>
+	<component name="ToolWindowManager">
+		<frame x="0" y="23" width="1440" height="798" extended-state="0" />
+		<editor active="true" />
+		<layout>
+			<window_info content_ui="combo" id="Project" order="0"
+				visible="true" weight="0.16380544" />
+			<window_info id="Structure" order="1" side_tool="true"
+				weight="0.25" />
+			<window_info id="Designer" order="2" />
+			<window_info id="Image Layers" order="3" />
+			<window_info id="UI Designer" order="4" />
+			<window_info id="Favorites" order="5" side_tool="true" />
+			<window_info id="Capture Tool" order="6" />
+			<window_info anchor="bottom" id="Message" order="0" />
+			<window_info anchor="bottom" id="Find" order="1"
+				weight="0.3286119" />
+			<window_info active="true" anchor="bottom" id="Run"
+				order="2" sideWeight="0.49928468" visible="true" weight="0.3569405" />
+			<window_info anchor="bottom" id="Debug" order="3"
+				weight="0.398017" />
+			<window_info anchor="bottom" id="Cvs" order="4"
+				weight="0.25" />
+			<window_info anchor="bottom" id="Inspection" order="5"
+				weight="0.4" />
+			<window_info anchor="bottom" id="TODO" order="6" />
+			<window_info anchor="bottom" id="Terminal" order="7" />
+			<window_info anchor="bottom"
+				id="Educational.CheckDetails" order="8" show_stripe_button="false" />
+			<window_info anchor="bottom" id="Tool Output" order="9"
+				weight="0.3286119" />
+			<window_info anchor="bottom" id="Event Log" order="10"
+				sideWeight="0.5007153" side_tool="true" weight="0.3569405" />
+			<window_info anchor="bottom" id="Messages" order="11"
+				weight="0.32719547" />
+			<window_info anchor="bottom" id="Database Changes"
+				order="12" show_stripe_button="false" />
+			<window_info anchor="bottom" id="Version Control"
+				order="13" weight="0.3286119" />
+			<window_info anchor="bottom" id="ANTLR Preview"
+				order="14" weight="0.42776203" />
+			<window_info anchor="right" id="Commander"
+				internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+			<window_info anchor="right" id="Ant Build" order="1"
+				weight="0.25" />
+			<window_info anchor="right" content_ui="combo"
+				id="Hierarchy" order="2" weight="0.25" />
+			<window_info anchor="right" id="Palette" order="3" />
+			<window_info anchor="right" id="Capture Analysis"
+				order="4" />
+			<window_info anchor="right" id="Maven Projects" order="5" />
+			<window_info anchor="right" id="SciView" order="6" />
+			<window_info anchor="right" id="Database" order="7" />
+			<window_info anchor="right" id="Palette&#9;" order="8" />
+			<window_info anchor="right" id="Theme Preview" order="9" />
+		</layout>
+	</component>
+	<component name="TypeScriptGeneratedFilesManager">
+		<option name="version" value="1" />
+	</component>
+	<component name="VcsContentAnnotationSettings">
+		<option name="myLimit" value="2678400000" />
+	</component>
+	<component name="VcsManagerConfiguration">
+		<MESSAGE value="First Push CLEAN" />
+		<MESSAGE value="CLEAN PLS" />
+		<MESSAGE value="LATEST WITH GUI WORKING" />
+		<MESSAGE value="WAITING TO MERGE" />
+		<MESSAGE value="AKO MUNA MAG MERGE OH" />
+		<MESSAGE value="FINAL CLEAN COPY AS OF THURSDAY 6:46PM" />
+		<MESSAGE value="ANG DUMI MO HAHAHAH" />
+		<MESSAGE value="FIX AT 9:35" />
+		<MESSAGE value="MERGED AT 9:58" />
+		<MESSAGE value="FIXED RECURSION FRIKIN WORKS" />
+		<MESSAGE value="THIS IS SO CLOSE TO FINISH LETS GOOOOOO" />
+		<MESSAGE value="Added visitor1" />
+		<MESSAGE value="Merged at 2:01" />
+		<MESSAGE value="HOPEFULLY 2ND TO THE LAST" />
+		<MESSAGE value="FUCKING DONE!!!" />
+		<MESSAGE value="WITH SEMANTIC ERRORS BUT PLS COUNTER CHECK" />
+		<MESSAGE value="ALMOOOOOSTTT" />
+		<option name="LAST_COMMIT_MESSAGE" value="ALMOOOOOSTTT" />
+	</component>
+	<component name="editorHistoryManager">
+		<entry
+			file="file://$PROJECT_DIR$/src/com/udojava/evalex/Function.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="315">
+					<caret line="47" selection-start-line="47"
+						selection-end-line="47" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
+		<entry file="file://$PROJECT_DIR$/src/org/fife/io/package.html" />
+		<entry
+			file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/ResourceBundle.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="150">
+					<caret line="1563" selection-start-line="1563"
+						selection-end-line="1563" />
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/org/fife/ui/rsyntaxtextarea/RSyntaxTextAreaUI.java" />
+		<entry
+			file="file://$PROJECT_DIR$/src/org/fife/ui/rtextarea/RTextAreaBase.java" />
+		<entry
+			file="file://$PROJECT_DIR$/src/org/fife/ui/rtextarea/RTextArea.java" />
+		<entry
+			file="file://$PROJECT_DIR$/src/org/fife/ui/rsyntaxtextarea/RSyntaxTextArea.java" />
+		<entry file="file://$PROJECT_DIR$/src/gBaseVisitor.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="149">
+					<caret line="11" column="13" selection-start-line="11"
+						selection-start-column="13" selection-end-line="11"
+						selection-end-column="13" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/TextEditorDemo.java" />
+		<entry file="file://$PROJECT_DIR$/src/Main.java" />
+		<entry file="file://$PROJECT_DIR$/src/mainIDE.form" />
+		<entry
+			file="jar://$PROJECT_DIR$/antlr-4.7.2-complete.jar!/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.class">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="120">
+					<caret line="11" column="13" selection-start-line="11"
+						selection-start-column="13" selection-end-line="11"
+						selection-end-column="13" />
+					<folding>
+						<element signature="e#307#308#0" expanded="true" />
+						<element signature="e#347#348#0" expanded="true" />
+					</folding>
+				</state>
+			</provider>
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/com/udojava/evalex/Visitor1.java">
+			<provider selected="true" editor-type-id="text-editor" />
+		</entry>
+		<entry
+			file="file://$PROJECT_DIR$/src/com/udojava/evalex/Expression.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state>
+					<caret line="203" column="47" lean-forward="true"
+						selection-start-line="203" selection-start-column="47"
+						selection-end-line="203" selection-end-column="47" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/gVisitor.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="210">
+					<caret line="530" column="57" lean-forward="true"
+						selection-start-line="530" selection-end-line="531" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/Scope.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="285">
+					<caret line="45" column="5" selection-start-line="45"
+						selection-start-column="5" selection-end-line="45"
+						selection-end-column="5" />
+					<folding>
+						<element signature="e#1124#1125#0" expanded="true" />
+						<element signature="e#1161#1162#0" expanded="true" />
+						<element signature="e#1232#1233#0" expanded="true" />
+						<element signature="e#1278#1279#0" expanded="true" />
+					</folding>
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/Symbol.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state>
+					<caret column="13" selection-start-column="13"
+						selection-end-column="13" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/gParser.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="1965">
+					<caret line="2864" selection-start-line="2864"
+						selection-end-line="2864" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/Visitor2.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="61">
+					<caret line="2568" column="28" lean-forward="true"
+						selection-start-line="2568" selection-start-column="28"
+						selection-end-line="2568" selection-end-column="28" />
+					<folding>
+						<element signature="e#2012#2020#0" expanded="true" />
+						<element signature="e#2793#2794#0" expanded="true" />
+						<element signature="e#2834#2835#0" expanded="true" />
+						<element signature="e#2928#2929#0" expanded="true" />
+						<element signature="e#2969#2970#0" expanded="true" />
+						<element signature="e#3059#3060#0" expanded="true" />
+						<element signature="e#3100#3101#0" expanded="true" />
+						<element signature="e#3188#3189#0" expanded="true" />
+						<element signature="e#3229#3230#0" expanded="true" />
+						<element signature="e#3309#3310#0" expanded="true" />
+						<element signature="e#3350#3351#0" expanded="true" />
+						<element signature="e#4319#4320#0" expanded="true" />
+						<element signature="e#4360#4361#0" expanded="true" />
+						<element signature="e#4456#4457#0" expanded="true" />
+						<element signature="e#4497#4498#0" expanded="true" />
+						<element signature="e#21898#21899#0" expanded="true" />
+						<element signature="e#21939#21940#0" expanded="true" />
+						<element signature="e#24426#24427#0" expanded="true" />
+						<element signature="e#24467#24468#0" expanded="true" />
+						<element signature="e#24858#24859#0" expanded="true" />
+						<element signature="e#24899#24900#0" expanded="true" />
+						<element signature="e#28848#28849#0" expanded="true" />
+						<element signature="e#28889#28890#0" expanded="true" />
+						<element signature="e#28989#28990#0" expanded="true" />
+						<element signature="e#29030#29031#0" expanded="true" />
+						<element signature="e#29547#29548#0" expanded="true" />
+						<element signature="e#29588#29589#0" expanded="true" />
+						<element signature="e#29684#29685#0" expanded="true" />
+						<element signature="e#29725#29726#0" expanded="true" />
+						<element signature="e#29819#29820#0" expanded="true" />
+						<element signature="e#29860#29861#0" expanded="true" />
+						<element signature="e#29960#29961#0" expanded="true" />
+						<element signature="e#30001#30002#0" expanded="true" />
+						<element signature="e#30717#30718#0" expanded="true" />
+						<element signature="e#30758#30759#0" expanded="true" />
+						<element signature="e#30846#30847#0" expanded="true" />
+						<element signature="e#30887#30888#0" expanded="true" />
+						<element signature="e#30963#30964#0" expanded="true" />
+						<element signature="e#31004#31005#0" expanded="true" />
+						<element signature="e#31094#31095#0" expanded="true" />
+						<element signature="e#31135#31136#0" expanded="true" />
+						<element signature="e#31221#31222#0" expanded="true" />
+						<element signature="e#31262#31263#0" expanded="true" />
+						<element signature="e#31358#31359#0" expanded="true" />
+						<element signature="e#31399#31400#0" expanded="true" />
+						<element signature="e#31493#31494#0" expanded="true" />
+						<element signature="e#31534#31535#0" expanded="true" />
+						<element signature="e#31620#31621#0" expanded="true" />
+						<element signature="e#31661#31662#0" expanded="true" />
+						<element signature="e#76234#76235#0" expanded="true" />
+						<element signature="e#76275#76276#0" expanded="true" />
+						<element signature="e#78851#78852#0" expanded="true" />
+						<element signature="e#78892#78893#0" expanded="true" />
+						<element signature="e#79471#79472#0" expanded="true" />
+						<element signature="e#79512#79513#0" expanded="true" />
+						<element signature="e#79598#79599#0" expanded="true" />
+						<element signature="e#79639#79640#0" expanded="true" />
+						<element signature="e#79723#79724#0" expanded="true" />
+						<element signature="e#79764#79765#0" expanded="true" />
+						<element signature="e#79844#79845#0" expanded="true" />
+						<element signature="e#79885#79886#0" expanded="true" />
+						<element signature="e#79971#79972#0" expanded="true" />
+						<element signature="e#80012#80013#0" expanded="true" />
+						<element signature="e#80388#80389#0" expanded="true" />
+						<element signature="e#80429#80430#0" expanded="true" />
+						<element signature="e#80507#80508#0" expanded="true" />
+						<element signature="e#80548#80549#0" expanded="true" />
+						<element signature="e#83953#83954#0" expanded="true" />
+						<element signature="e#83994#83995#0" expanded="true" />
+						<element signature="e#84092#84093#0" expanded="true" />
+						<element signature="e#84133#84134#0" expanded="true" />
+						<element signature="e#84414#84415#0" expanded="true" />
+						<element signature="e#84455#84456#0" expanded="true" />
+						<element signature="e#84889#84890#0" expanded="true" />
+						<element signature="e#84930#84931#0" expanded="true" />
+						<element signature="e#129966#129967#0" expanded="true" />
+						<element signature="e#130007#130008#0" expanded="true" />
+						<element signature="e#132731#132732#0" expanded="true" />
+						<element signature="e#132772#132773#0" expanded="true" />
+						<element signature="e#119115#119123#0" expanded="true" />
+						<element signature="e#133317#133318#0" expanded="true" />
+						<element signature="e#133358#133359#0" expanded="true" />
+						<element signature="e#133444#133445#0" expanded="true" />
+						<element signature="e#133485#133486#0" expanded="true" />
+						<element signature="e#138771#138772#0" expanded="true" />
+						<element signature="e#138812#138813#0" expanded="true" />
+						<element signature="e#145642#145643#0" expanded="true" />
+						<element signature="e#145683#145684#0" expanded="true" />
+						<element signature="e#145763#145764#0" expanded="true" />
+						<element signature="e#145804#145805#0" expanded="true" />
+						<element signature="e#146542#146543#0" expanded="true" />
+						<element signature="e#146583#146584#0" expanded="true" />
+						<element signature="e#146667#146668#0" expanded="true" />
+						<element signature="e#146708#146709#0" expanded="true" />
+						<element signature="e#146802#146803#0" expanded="true" />
+						<element signature="e#146843#146844#0" expanded="true" />
+						<element signature="e#146949#146950#0" expanded="true" />
+						<element signature="e#146990#146991#0" expanded="true" />
+						<element signature="e#147398#147399#0" expanded="true" />
+						<element signature="e#147439#147440#0" expanded="true" />
+						<element signature="e#147525#147526#0" expanded="true" />
+						<element signature="e#147566#147567#0" expanded="true" />
+						<element signature="e#147644#147645#0" expanded="true" />
+						<element signature="e#147685#147686#0" expanded="true" />
+						<element signature="e#147763#147764#0" expanded="true" />
+						<element signature="e#147804#147805#0" expanded="true" />
+						<element signature="e#147892#147893#0" expanded="true" />
+						<element signature="e#147933#147934#0" expanded="true" />
+						<element signature="e#148017#148018#0" expanded="true" />
+						<element signature="e#148058#148059#0" expanded="true" />
+						<element signature="e#148138#148139#0" expanded="true" />
+						<element signature="e#148179#148180#0" expanded="true" />
+						<element signature="e#149089#149090#0" expanded="true" />
+						<element signature="e#149144#149145#0" expanded="true" />
+						<element signature="e#149187#149188#0" expanded="true" />
+						<element signature="e#149244#149245#0" expanded="true" />
+						<element signature="e#129550#129557#0" expanded="true" />
+					</folding>
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/mainIDE.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="3218">
+					<caret line="254" column="48" selection-start-line="254"
+						selection-start-column="40" selection-end-line="254"
+						selection-end-column="48" />
+					<folding>
+						<element signature="imports" expanded="true" />
+						<element signature="e#4862#4869#0" expanded="true" />
+						<element signature="e#6485#6492#0" expanded="true" />
+						<element signature="e#5615#5616#0" expanded="true" />
+						<element signature="e#5675#5676#0" expanded="true" />
+						<element signature="e#5941#5942#0" expanded="true" />
+						<element signature="e#5994#5995#0" expanded="true" />
+						<element signature="e#6044#6045#0" expanded="true" />
+						<element signature="e#6098#6099#0" expanded="true" />
+					</folding>
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/TokenMaker.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="278">
+					<caret line="26" column="53" lean-forward="true"
+						selection-start-line="26" selection-start-column="53"
+						selection-end-line="26" selection-end-column="53" />
+					<folding>
+						<element signature="imports" expanded="true" />
+					</folding>
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/g.g4">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="192">
+					<caret line="102" column="19" lean-forward="true"
+						selection-start-line="102" selection-start-column="19"
+						selection-end-line="102" selection-end-column="19" />
+				</state>
+			</provider>
+		</entry>
+		<entry file="file://$PROJECT_DIR$/src/Visitor1.java">
+			<provider selected="true" editor-type-id="text-editor">
+				<state relative-caret-position="231">
+					<caret line="244" column="13" lean-forward="true"
+						selection-start-line="244" selection-start-column="13"
+						selection-end-line="249" selection-end-column="15" />
+					<folding>
+						<element signature="e#2086#2094#0" expanded="true" />
+						<element signature="e#3455#3456#0" expanded="true" />
+						<element signature="e#3496#3497#0" expanded="true" />
+						<element signature="e#4547#4548#0" expanded="true" />
+						<element signature="e#4588#4589#0" expanded="true" />
+						<element signature="e#4684#4685#0" expanded="true" />
+						<element signature="e#4725#4726#0" expanded="true" />
+					</folding>
+				</state>
+			</provider>
+		</entry>
+	</component>
+	<component name="masterDetails">
+		<states>
+			<state key="ArtifactsStructureConfigurable.UI">
+				<settings>
+					<artifact-editor />
+					<splitter-proportions>
+						<option name="proportions">
+							<list>
+								<option value="0.2" />
+							</list>
+						</option>
+					</splitter-proportions>
+				</settings>
+			</state>
+			<state key="FacetStructureConfigurable.UI">
+				<settings>
+					<last-edited>No facets are configured</last-edited>
+					<splitter-proportions>
+						<option name="proportions">
+							<list>
+								<option value="0.2" />
+							</list>
+						</option>
+					</splitter-proportions>
+				</settings>
+			</state>
+			<state key="GlobalLibrariesConfigurable.UI">
+				<settings>
+					<last-edited>Python 2.7 (venv) interpreter library</last-edited>
+					<splitter-proportions>
+						<option name="proportions">
+							<list>
+								<option value="0.2" />
+							</list>
+						</option>
+					</splitter-proportions>
+				</settings>
+			</state>
+			<state key="JdkListConfigurable.UI">
+				<settings>
+					<last-edited>1.8</last-edited>
+					<splitter-proportions>
+						<option name="proportions">
+							<list>
+								<option value="0.2" />
+							</list>
+						</option>
+					</splitter-proportions>
+				</settings>
+			</state>
+			<state key="ModuleStructureConfigurable.UI">
+				<settings>
+					<last-edited>BigHero5Language</last-edited>
+					<splitter-proportions>
+						<option name="proportions">
+							<list>
+								<option value="0.2" />
+							</list>
+						</option>
+					</splitter-proportions>
+				</settings>
+			</state>
+			<state key="ProjectLibrariesConfigurable.UI">
+				<settings>
+					<splitter-proportions>
+						<option name="proportions">
+							<list>
+								<option value="0.2" />
+							</list>
+						</option>
+					</splitter-proportions>
+				</settings>
+			</state>
+			<state key="ScopeChooserConfigurable.UI">
+				<settings>
+					<splitter-proportions>
+						<option name="proportions">
+							<list>
+								<option value="0.2" />
+							</list>
+						</option>
+					</splitter-proportions>
+				</settings>
+			</state>
+		</states>
+	</component>
+</project>
